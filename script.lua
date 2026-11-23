@@ -23,7 +23,7 @@ local OWNER_IDS = { [8925135775] = "Owner" }
 local COUNTER_BASE = "https://abacus.jasoncameron.dev"
 local COUNTER_NS = "universal-script-d33rzn"
 local COUNTER_KEY = "users"
-local SALT = "ganti-teks-acak-ini"
+local SALT = "GTAVI-19NOVEMBER"
 
 -- bersihkan versi lama
 if getgenv().__TemplateConns then
